@@ -1,0 +1,206 @@
+Version: 4.7.0.1
+  - se retiro:
+<!-- ======= Counts ======= -->
+    <div class="counts container">
+
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6">
+          <div class="count-box">
+            <i class="bi bi-emoji-smile"></i>
+            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Happy Clients</p>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
+          <div class="count-box">
+            <i class="bi bi-journal-richtext"></i>
+            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Projects</p>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+          <div class="count-box">
+            <i class="bi bi-headset"></i>
+            <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Hours Of Support</p>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+          <div class="count-box">
+            <i class="bi bi-award"></i>
+            <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Awards</p>
+          </div>
+        </div>
+
+      </div>
+
+    </div><!-- End Counts -->
+
+    <!-- ======= Testimonials ======= -->
+    <div class="testimonials container">
+
+      <div class="section-title">
+        <h2>Testimonials</h2>
+      </div>
+
+      <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+        <div class="swiper-wrapper">
+
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+              <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+              <h3>Saul Goodman</h3>
+              <h4>Ceo &amp; Founder</h4>
+            </div>
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+              <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+              <h3>Sara Wilsson</h3>
+              <h4>Designer</h4>
+            </div>
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+              <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+              <h3>Jena Karlis</h3>
+              <h4>Store Owner</h4>
+            </div>
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+              <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+              <h3>Matt Brandon</h3>
+              <h4>Freelancer</h4>
+            </div>
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+              <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+              <h3>John Larson</h3>
+              <h4>Entrepreneur</h4>
+            </div>
+          </div><!-- End testimonial item -->
+
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+
+      <div class="owl-carousel testimonials-carousel">
+
+      </div>
+
+    </div><!-- End Testimonials  -->
+
+Version: 4.7.0
+  - Updated Bootstrap to version 5.1.3
+  - Updated all outdated third party vendor libraries to their latest versions
+
+Version: 4.6.0
+  - Updated Bootstrap to version 5.1.2
+  - Updated all outdated third party vendor libraries to their latest versions
+
+Version: 4.5.0
+  - Fixed slider issue in testimonials and portfolio details sections
+
+Version: 4.4.0
+  - Updated Bootstrap to version 5.1.1
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Improved and updated dev version gulp scripts
+
+Version: 4.3.0
+  - Updated Bootstrap to version 5.0.1
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Fixed navigation links focus color
+
+Version: 4.2.0
+  - Updated Bootstrap to version 5.0.0 Final
+  - Updated all outdated third party vendor libraries to their latest versions
+
+Version: 4.1.0
+  - Updated Bootstrap to version 5.0.0-beta3
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Updated the PHP Email Form to V3.1
+
+Version: 4.0.1
+  - Updated Bootstrap to version 5.0.0-beta2
+  - Updated all outdated third party vendor libraries to their latest versions
+
+Version: 4.0.0
+  - The template does not require jQuery anymore
+  - Removed jQuery and all the jQuery plugins
+  - The assets/js/main.js was rewritten completely with vanilla Javascript. No more jQuery code
+  - Restructured the dev version for better development experience
+  - Updated the PHP Email Form to V3.0 - No jQuery dependency. Added attachment support
+
+Version: 3.0.0
+  - Initial release with Bootstrap v5.0 Beta 1
+
+Version: 2.5.0
+  - Updated the PHP Email Form to v2.3
+  - Other small fixes and improvements
+
+Version: 2.4.0
+  - Updated the PHP Email Form library to version 2.0 with reCaptcha support
+  - Updated Bootstrap to version 4.5.3
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Updated the PHP Email Form to v2.1
+  - Other small fixes and improvements
+
+Version: 2.3.0
+  - Updated the PHP Email Form library to version 2.0 with reCaptcha support
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Other small fixes and improvements
+  
+Version: 2.2.0
+  - Added: Portfolio details page with lightbox support
+  - Updated Bootstrap to version 4.5
+  - Updated jQuery and Remixicon libraries to their latest versions 
+
+Version: 2.1.0
+  - Added: activate/show sections on load with hash links
+
+Version: 2.0.1
+  - Added the missing social profile icons in the contact page
+
+Version: 2.0.0
+  - The template was rebuilt from scratch with the latest Bootstrap version (4.4.1)
+  - Added SMPTP support for the contact form script (Pro)
+  - Added NodeJS NPM Development version (Pro unlimited & Membership members)
+  
+Version: 1.0.0
+- Initial Release
